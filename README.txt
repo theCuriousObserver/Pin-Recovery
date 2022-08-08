@@ -26,3 +26,5 @@ c = 0xa75da6155e61662665dfdec2264097b460cea3eb09c84461b5f728d9b0058361
 
 The protocol run used SHA-256 as the hash function. The IV is encoded as a 8 byte big-endian integer; the date is ASCII encoded in a "YYYY-MM-DD" format. 
 Recover the plaintext PIN and give the shared secret date. 
+
+Updated 08 August 2022
